@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsync",
+        "uuid": 28874300,
+        "checksum": "wu8vbs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
